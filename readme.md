@@ -8,8 +8,8 @@ Những phần mềm cần thiết khi học tiếng Anh
 * [Anki](#anki): phần mềm flash cards, chú ý phần cài thêm add-ons
 * [Google Drive](#google-drive): phần mềm để lưu nhanh bài tập vào máy tính/điện thoại
 * [GoldenDict](#goldendict): phần mềm tra nhiều từ điển cùng lúc<br>
-       * [Thêm từ điển cho GoldenDict](#thêm-t-in-cho-goldendict)<br>
-       * [Sắp xếp lại trình tự từ điển](#sp-xp-li-trình-t-t-in)
+       * [Thêm từ điển cho GoldenDict](#thêm-từ-điển-cho-goldendict)<br>
+       * [Sắp xếp lại trình tự từ điển](#sắp-xếp-lại-trình-tự-từ-điển)
 * [mDict](#mdict): tra từ trên điện thoại/máy tính bảng<br>
        * [iPhone: App Store](#iphone-app-store)<br>
        * [Android: Google Play](#android-google-play)
