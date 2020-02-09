@@ -5,7 +5,7 @@ Những phần mềm cần thiết khi học tiếng Anh
 
 <!-- vim-markdown-toc GFM -->
 
-* [Anki](#anki): phần mềm flash cards, chú ý xem phần cài thêm add-ons
+* [Anki](#anki): phần mềm flash cards, chú ý phần cài thêm add-ons
 * [Google Drive](#google-drive): phần mềm để lưu nhanh bài tập vào máy tính/điện thoại
 * [GoldenDict](#goldendict): phần mềm tra nhiều từ điển cùng lúc<br>
        * [Thêm từ điển cho GoldenDict](#thêm-t-in-cho-goldendict)<br>
@@ -14,7 +14,7 @@ Những phần mềm cần thiết khi học tiếng Anh
        * [iPhone: App Store](#iphone-app-store)<br>
        * [Android: Google Play](#android-google-play)
 * [Audacity](#audacity): luyện nghe trên máy tính
-* [Phần mềm thay thế Audacity trên điện thoại](#phn-mm-thay-th-audacity-trên-in-thoi): luyên nghe trên điện thoại
+* [Phần mềm thay thế Audacity trên điện thoại](#phn-mm-thay-th-audacity-trên-in-thoi): luyện nghe trên điện thoại
 * [Zoom](#zoom): để học online
 * [Evernote](#evernote): để lưu lại ghi chép hàng tuần
 
@@ -29,7 +29,7 @@ Những phần mềm cần thiết khi học tiếng Anh
 
 Sau khi cả nhà cài Anki xong, cả nhà cài thêm add-ons cho Anki bằng cách: 
 
-1. Download file zip nén add-ons sau và giải nén ra: [addons21.zip](https://github.com/hieuvijjo/essential_apps/blob/master/files/addons21.zip)
+1. Download file zip và giải nén ra: [addons21.zip](https://github.com/hieuvijjo/essential_apps/blob/master/files/addons21.zip)
 2. Chọn `Tools > Add-ons > View Files`
 3. Xoá toàn bộ thư mục `addons21`
 4. Copy thư mục `addons21` đã giải nén ở bước 1 vào thay. 
@@ -58,8 +58,8 @@ Sau khi cài xong, cả nhà bật `Backup and Sync` và làm theo hướng dẫ
 
 ## GoldenDict
 * [Bản cho Win](https://github.com/goldendict/goldendict/wiki/Early-Access-Builds-for-Windows): chọn mục `Download (zip)` hoặc `Download (installer)`. <br>
-Nếu download bản `zip` chỉ cần giải nén ra và tạo shortcut là xong.<br>
-Nếu download bản `installer` thì cần cài vào.
+Nếu download bản `zip` chỉ cần giải nén ra và tạo shortcut ra màn hình là xong.<br>
+Nếu download bản `installer` thì cần cài.
 * [Bản cho Mac](https://github.com/goldendict/goldendict/wiki/Early-Access-Builds-for-Mac-OS-X): Nên chọn bản `Sierra or later`.
 
 #### Thêm từ điển cho GoldenDict
@@ -85,15 +85,15 @@ Cả nhà thử tra 1 từ, sẽ thấy `GoldenDict` đồng loạt tra nhiều 
 #### Sắp xếp lại trình tự từ điển
 
 1. Chọn `Edit > Dictionaries > Dictionaries`
-2. Di lại trình tự từ điển theo sở thích, các từ điển không dùng di vào ô `Inactive`
+2. Di lại trình tự từ điển theo sở thích. Từ điển nào không dùng di vào ô `Inactive`
 
 <p align="center">
 <img src="images/arrange_dictionaries.gif" alt="Arrange Dictionaries in GoldenDict" width="100%">
 </p>
 
 > **Tip**: <br>
-> * Các bạn mới có thể thử di từ điển `Longman`, `Lạc Việt`, và `Oxford Advanced Learner` lên hàng đầu tiên<br>
-> * Các bạn advanced hơn, mình cực kì khuyến khích dùng nhiều từ điển `Merriam-Webster's`, `New Oxford American` và `Vocabulary.com`
+> * Các bạn mới có thể thử sắp xếp từ điển `Longman`, `Lạc Việt`, và `Oxford Advanced Learner` lên hàng đầu tiên<br>
+> * Các bạn advanced hơn, mình cực kì khuyến khích dùng nhiều từ điển `Merriam-Webster`, `New Oxford American` và `Vocabulary.com`
 
 Cả nhà có thể tham khảo cách mình sắp xếp từ điển hiện tại:
 <p align="center">
@@ -122,8 +122,12 @@ Có 2 cách để thêm từ điển:
 **Cách nhanh, nhưng có thể có bạn lúng túng**
 
 1. Cài [iTunes](https://www.apple.com/itunes/) nếu dùng Win hoặc Mac (có hệ điều hành dưới Catalina)
-2. Cắm cắp nối iPhone với laptop
+
+2. Cắm cáp nối iPhone với laptop
+
 3. Dùng tính năng `File Sharing` trong `iTunes` để copy thư mục `Golden Dictionary` đã download về máy tính vào trong máy tính.
+
+> Máy mac hệ điều hành `Catalina` thì chỉ cần vào `Finder` sẽ thấy điện thoại kết nối với `Finder` ngay ở bên phải như ổ cứng ngoài. Click vào và chọn `Files > MDict` rồi di thư mục `Golden Dictionary` vào đây. 
 
 #### Android: [Google Play](https://play.google.com/store/apps/details?id=cn.mdict)
 Cắm cáp nối điện thoại với máy tính, và copy thư mục `Golden Dictionary` vào trong `/mnt/sdcard/mdict/doc`
