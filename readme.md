@@ -66,7 +66,7 @@ Nếu download bản `installer` thì cần cài.
 
 Lúc cài về `GoldenDict` vẫn trống trơn, chưa có từ điển, cả nhà cần:
 
-1. Download các files từ điển và giải nén ra: [từ điển cho GoldenDict](https://www.dropbox.com/s/y46jsmvr3umrgk7/Golden%20Dictionary.zip?dl=0)
+1. Download các files từ điển và giải nén ra: [link Dropbox](https://www.dropbox.com/s/y46jsmvr3umrgk7/Golden%20Dictionary.zip?dl=0) hoặc [link Google Drive](https://drive.google.com/drive/folders/1kvYtDZ9K1UwlXuIx2HFNcl9lTFQBoVj_?usp=sharing). Nếu dùng link `Google Drive` thì chọn `Add to My Drive` luôn cho nhanh. Nếu cả nhà đã cài `Backup and Sync` nó sẽ tự kéo về laptop.
 2. Bật GoldenDict, chọn `Edit > Dictionaries > Add...`<br>
 Chọn đường dẫn đến thư mục từ điển cho `GoldenDict` vừa giải nén. 
 3. Tick dấu `Recursive` và chọn `Rescan now`.
