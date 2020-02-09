@@ -1,20 +1,23 @@
 # Essential Apps
 Những phần mềm cần thiết khi học tiếng Anh
 
-## Mục lục
+## Mục lục:
+
 
 <!-- vim-markdown-toc GFM -->
 
 * [Anki](#anki)
 * [Google Drive](#google-drive)
 * [GoldenDict](#goldendict)<br>
-	* [Thêm từ điển cho GoldenDict](#thêm-t-in-cho-goldendict)<br>
-	* [Sắp xếp lại trình tự từ điển](#sp-xp-li-trình-t-t-in)
+        * [Thêm từ điển cho GoldenDict](#thêm-t-in-cho-goldendict)<br>
+        * [Sắp xếp lại trình tự từ điển](#sp-xp-li-trình-t-t-in)
 * [mDict](#mdict)<br>
-	* [iPhone: App Store](#iphone-app-storebr)<br>
-	* [Android: Google Play](#android-google-play)
+        * [iPhone: App Store](#iphone-app-store)<br>
+        * [Android: Google Play](#android-google-play)
 * [Audacity](#audacity)
 * [Phần mềm thay thế Audacity trên điện thoại](#phn-mm-thay-th-audacity-trên-in-thoi)
+* [Zoom](#zoom)
+* [Evernote](#evernote)
 
 <!-- vim-markdown-toc -->
 
@@ -136,5 +139,25 @@ Link download: [Audacity](https://www.fosshub.com/Audacity.html)
 Hướng dẫn chi tiết sử dụng Audacity: [AUDACITY: hãy làm chủ hoàn toàn việc luyện nghe tiếng Anh của bản thân!](https://www.youtube.com/watch?v=RV4jUEaWCtc) (**Ai cũng nên xem hết nếu chưa xem!!!**)
 
 ## Phần mềm thay thế Audacity trên điện thoại
+
+Cần thiết để luyện tập các track audio mà không cần dùng Audacity.
+
 * iPhone: [Speater](https://apps.apple.com/us/app/speater-smart-repeater/id549627415) (mất phí, nhưng đáng đồng tiền, có cả bản free cho cả nhà thử, tìm trên AppStore)
 * Android: [WorkAudioBook](https://play.google.com/store/apps/details?id=com.povalyaev.WorkAudioBookPaid) (mất phí, nhưng đáng, có bản free để thử, cả nhà tìm trên Google Play Store)
+
+## Zoom
+
+Cần thiết để học online.
+
+* Win/Mac: nhấp download [Zoom Client for Meetings](https://zoom.us/download#client_4meeting)
+* iPhone: [App Store](https://itunes.apple.com/us/app/id546505307)
+* Android: [Google Play](https://play.google.com/store/apps/details?id=us.zoom.videomeetings)
+
+## Evernote
+
+Cần thiết để lưu ghi chép bài tập hàng tuần.
+
+* Win/Mac: https://evernote.com/download
+* iPhone: [App Store](https://itunes.apple.com/app/evernote/id281796108?mt=8)
+* Android: [Google Play](https://play.google.com/store/apps/details?id=com.evernote)
+
