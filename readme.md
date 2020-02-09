@@ -5,18 +5,18 @@ Những phần mềm cần thiết khi học tiếng Anh
 
 <!-- vim-markdown-toc GFM -->
 
-* [Anki](#anki)
-* [Google Drive](#google-drive)
-* [GoldenDict](#goldendict)<br>
-       - [Thêm từ điển cho GoldenDict](#thêm-t-in-cho-goldendict)<br>
-       - [Sắp xếp lại trình tự từ điển](#sp-xp-li-trình-t-t-in)
-* [mDict](#mdict)<br>
+* [Anki](#anki): phần mềm flash cards, chú ý xem phần cài thêm add-ons
+* [Google Drive](#google-drive): phần mềm để lưu nhanh bài tập vào máy tính/điện thoại
+* [GoldenDict](#goldendict): phần mềm tra nhiều từ điển cùng lúc<br>
+       * [Thêm từ điển cho GoldenDict](#thêm-t-in-cho-goldendict)<br>
+       * [Sắp xếp lại trình tự từ điển](#sp-xp-li-trình-t-t-in)
+* [mDict](#mdict): tra từ trên điện thoại/máy tính bảng<br>
        * [iPhone: App Store](#iphone-app-store)<br>
        * [Android: Google Play](#android-google-play)
-* [Audacity](#audacity)
-* [Phần mềm thay thế Audacity trên điện thoại](#phn-mm-thay-th-audacity-trên-in-thoi)
-* [Zoom](#zoom)
-* [Evernote](#evernote)
+* [Audacity](#audacity): luyện nghe trên máy tính
+* [Phần mềm thay thế Audacity trên điện thoại](#phn-mm-thay-th-audacity-trên-in-thoi): luyên nghe trên điện thoại
+* [Zoom](#zoom): để học online
+* [Evernote](#evernote): để lưu lại ghi chép hàng tuần
 
 <!-- vim-markdown-toc -->
 
