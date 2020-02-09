@@ -34,6 +34,18 @@ Minh hoạ nhanh các bước làm:<br>
 > **Lưu ý:**<br>
 > Bạn nào tắt đi bật lại thấy báo lỗi, khả năng là do thiếu `ffmpeg`, cần cài thêm `ffmpeg` [theo hướng dẫn](https://github.com/hieuvijjo/huongdan_deck_to_audio).
 
+## Google Drive 
+
+* Win/Mac: [Backup and Sync](https://www.google.com/drive/download/), **chỉ cần** download cái `Backup and Sync` thôi.<br>
+Sau khi cài xong, cả nhà bật `Backup and Sync` và làm theo hướng dẫn:
+<p align="center">
+<img src="images/install_backup_and_sync.gif" alt="Install Backup and Sync" width="100%">
+</p>
+
+* Android: [Google Play](https://play.google.com/store/apps/details?id=com.google.android.apps.docs)
+
+* iPhone: [App Store](https://apps.apple.com/app/google-drive/id507874739)
+
 ## GoldenDict
 * [Bản cho Win](https://github.com/goldendict/goldendict/wiki/Early-Access-Builds-for-Windows): chọn mục `Download (zip)` hoặc `Download (installer)`. <br>
 Nếu download bản `zip` chỉ cần giải nén ra và tạo shortcut là xong.<br>
