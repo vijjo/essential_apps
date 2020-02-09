@@ -5,7 +5,7 @@ Những phần mềm cần thiết khi học tiếng Anh
 
 <!-- vim-markdown-toc GFM -->
 
-* [Anki](#anki): phần mềm flash cards, chú ý phần cài thêm add-ons
+* [Anki](#anki): phần mềm flashcards kèm add-ons
 * [Google Drive](#google-drive): phần mềm để lưu nhanh bài tập vào máy tính/điện thoại
 * [GoldenDict](#goldendict): phần mềm tra nhiều từ điển cùng lúc<br>
        * [Thêm từ điển cho GoldenDict](#thêm-từ-điển-cho-goldendict)<br>
