@@ -8,10 +8,10 @@ Những phần mềm cần thiết khi học tiếng Anh
 * [Anki](#anki)
 * [Google Drive](#google-drive)
 * [GoldenDict](#goldendict)<br>
-       * [Thêm từ điển cho GoldenDict](#thêm-t-in-cho-goldendict)
+       * [Thêm từ điển cho GoldenDict](#thêm-t-in-cho-goldendict)<br>
        * [Sắp xếp lại trình tự từ điển](#sp-xp-li-trình-t-t-in)
 * [mDict](#mdict)<br>
-       * [iPhone: App Store](#iphone-app-storebr)
+       * [iPhone: App Store](#iphone-app-storebr)<br>
        * [Android: Google Play](#android-google-play)
 * [Audacity](#audacity)
 * [Phần mềm thay thế Audacity trên điện thoại](#phn-mm-thay-th-audacity-trên-in-thoi)
