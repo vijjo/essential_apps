@@ -21,25 +21,17 @@ Những phần mềm cần thiết khi học tiếng Anh
 ## Anki
 
 * [Bản cho Win](https://apps.ankiweb.net/downloads/current/anki-2.1.19-windows.exe?u=1)
-
 * [Bản cho Mac](https://apps.ankiweb.net/downloads/current/anki-2.1.19-mac.dmg)
-
 * [Điện thoại iPhone](https://itunes.apple.com/us/app/ankimobile-flashcards/id373493387) (mất phí)
-
 * [Điện thoại Android](https://play.google.com/store/apps/details?id=com.ichi2.anki) (free)
 
 Sau khi cả nhà cài Anki xong, cả nhà cài thêm add-ons cho Anki bằng cách: 
 
 1. Download file zip nén add-ons sau và giải nén ra: [addons21.zip](https://github.com/hieuvijjo/essential_apps/blob/master/files/addons21.zip)
-
 2. Chọn `Tools > Add-ons > View Files`
-
 3. Xoá toàn bộ thư mục `addons21`
-
 4. Copy thư mục `addons21` đã giải nén ở bước 1 vào thay. 
-
-   (Lưu ý, cần copy thư mục `addons21` trong cùng, tránh tình trạng `addons21` bên trong `addons21` do giải nén)
-
+> **Lưu ý:** cần copy thư mục `addons21` trong cùng, tránh tình trạng `addons21` bên trong `addons21` do giải nén.
 5. Tắt Anki đi bật lại
 
 Minh hoạ nhanh các bước làm:<br>
@@ -60,14 +52,12 @@ Sau khi cài xong, cả nhà bật `Backup and Sync` và làm theo hướng dẫ
 </p>
 
 * Android: [Google Play](https://play.google.com/store/apps/details?id=com.google.android.apps.docs)
-
 * iPhone: [App Store](https://apps.apple.com/app/google-drive/id507874739)
 
 ## GoldenDict
 * [Bản cho Win](https://github.com/goldendict/goldendict/wiki/Early-Access-Builds-for-Windows): chọn mục `Download (zip)` hoặc `Download (installer)`. <br>
 Nếu download bản `zip` chỉ cần giải nén ra và tạo shortcut là xong.<br>
 Nếu download bản `installer` thì cần cài vào.
-
 * [Bản cho Mac](https://github.com/goldendict/goldendict/wiki/Early-Access-Builds-for-Mac-OS-X): Nên chọn bản `Sierra or later`.
 
 #### Thêm từ điển cho GoldenDict
@@ -75,10 +65,8 @@ Nếu download bản `installer` thì cần cài vào.
 Lúc cài về `GoldenDict` vẫn trống trơn, chưa có từ điển, cả nhà cần:
 
 1. Download các files từ điển và giải nén ra: [từ điển cho GoldenDict](https://www.dropbox.com/s/y46jsmvr3umrgk7/Golden%20Dictionary.zip?dl=0)
-
 2. Bật GoldenDict, chọn `Edit > Dictionaries > Add...`<br>
 Chọn đường dẫn đến thư mục từ điển cho `GoldenDict` vừa giải nén. 
-
 3. Tick dấu `Recursive` và chọn `Rescan now`.
 
 Minh hoạ nhanh các bước làm:<br>
@@ -95,7 +83,6 @@ Cả nhà thử tra 1 từ, sẽ thấy `GoldenDict` đồng loạt tra nhiều 
 #### Sắp xếp lại trình tự từ điển
 
 1. Chọn `Edit > Dictionaries > Dictionaries`
-
 2. Di lại trình tự từ điển theo sở thích, các từ điển không dùng di vào ô `Inactive`
 
 <p align="center">
@@ -120,15 +107,10 @@ Có 2 cách để thêm từ điển:
 **Cách lâu, nhưng mà dễ**
 
 1. Cả nhà `Add to my drive` thư mục [từ điển Golden Dictionary](https://drive.google.com/drive/folders/1kvYtDZ9K1UwlXuIx2HFNcl9lTFQBoVj_?usp=sharing).
-
 2. Cài [Google Drive](https://apps.apple.com/us/app/google-drive/id507874739) cho điện thoại.
-
 3. Mở app `Files`
-
 4. Chọn `Google Drive` tìm đến chỗ chứa thư mục `Golden Dictionary`
-
 5. Chọn `Select` (góc trên bên phải), và select thư mục `Golden Dictionary`
-
 6. Chọn `Copy` (bên dưới, chính giữa), và chọn đến `On My iPhone > MDict` (có thể phải đợi khá lâu, bởi máy cần download gần 4gb)
 
 <p align="center">
