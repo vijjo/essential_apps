@@ -1,6 +1,23 @@
 # Essential Apps
 Những phần mềm cần thiết khi học tiếng Anh
 
+## Mục lục
+
+<!-- vim-markdown-toc GFM -->
+
+* [Anki](#anki)
+* [Google Drive](#google-drive)
+* [GoldenDict](#goldendict)
+        * [Thêm từ điển cho GoldenDict](#thêm-t-in-cho-goldendict)
+        * [Sắp xếp lại trình tự từ điển](#sp-xp-li-trình-t-t-in)
+* [mDict](#mdict)
+        * [iPhone: App Store](#iphone-app-storebr)
+        * [Android: Google Play](#android-google-play)
+* [Audacity](#audacity)
+* [Phần mềm thay thế Audacity trên điện thoại](#phn-mm-thay-th-audacity-trên-in-thoi)
+
+<!-- vim-markdown-toc -->
+
 ## Anki
 
 * [Bản cho Win](https://apps.ankiweb.net/downloads/current/anki-2.1.19-windows.exe?u=1)
@@ -97,7 +114,7 @@ Cả nhà có thể tham khảo cách mình sắp xếp từ điển hiện tạ
 ## mDict
 Phần mềm thay thế GoldenDict trên điện thoại
 
-#### iPhone: [App Store](https://itunes.apple.com/cn/app/mdict/id389083586?mt=8)<br>
+#### iPhone: [App Store](https://itunes.apple.com/cn/app/mdict/id389083586?mt=8)
 Có 2 cách để thêm từ điển:
 
 **Cách lâu, nhưng mà dễ**
@@ -115,7 +132,7 @@ Có 2 cách để thêm từ điển:
 6. Chọn `Copy` (bên dưới, chính giữa), và chọn đến `On My iPhone > MDict` (có thể phải đợi khá lâu, bởi máy cần download gần 4gb)
 
 <p align="center">
-<img src="images/add_to_mdict.gif" alt="Add dictionaries to mDict" width="50%">
+<img src="images/add_to_mdict.gif" alt="Add dictionaries to mDict" width="30%">
 </p>
 
 **Cách nhanh, nhưng có thể có bạn lúng túng**
