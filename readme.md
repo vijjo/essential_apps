@@ -9,7 +9,7 @@ Những phần mềm cần thiết khi học tiếng Anh
 * [Google Drive](#google-drive): phần mềm để lưu nhanh bài tập vào máy tính/điện thoại
 * [GoldenDict](#goldendict): phần mềm tra nhiều từ điển cùng lúc<br>
        * [Thêm từ điển cho GoldenDict](#thêm-từ-điển-cho-goldendict)<br>
-       * [Sắp xếp lại trình tự từ điển](#sắp-xếp-lại-trình-tự-từ-điển)
+           * [Sắp xếp lại trình tự từ điển](#sắp-xếp-lại-thứ-tự-từ-điển)
 * [mDict](#mdict): tra từ trên điện thoại/máy tính bảng<br>
        * [iPhone: App Store](#iphone-app-store)<br>
        * [Android: Google Play](#android-google-play)
@@ -82,7 +82,7 @@ Cả nhà thử tra 1 từ, sẽ thấy `GoldenDict` đồng loạt tra nhiều 
 > **Tip:**<br>
 > *Để tiện khi tra từ*, cả nhà nên chọn `View` và tick vào `Search Pane`
 
-#### Sắp xếp lại trình tự từ điển
+#### Sắp xếp lại thứ tự từ điển
 
 1. Chọn `Edit > Dictionaries > Dictionaries`
 2. Di lại trình tự từ điển theo sở thích. Từ điển nào không dùng di vào ô `Inactive`
