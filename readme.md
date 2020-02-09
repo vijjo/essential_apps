@@ -103,7 +103,7 @@ Cả nhà có thể tham khảo cách mình sắp xếp từ điển hiện tạ
 ## mDict
 Phần mềm thay thế GoldenDict trên điện thoại
 
-> **Lưu ý**: trên điện thoại, các từ điển đều hoạt động tốt trừ từ điển tiếng Việt
+> **Lưu ý**: trên điện thoại, các từ điển đều hoạt động tốt **trừ từ điển tiếng Việt**
 
 #### iPhone: [App Store](https://itunes.apple.com/cn/app/mdict/id389083586?mt=8)
 Có 2 cách để thêm từ điển:
