@@ -123,13 +123,11 @@ Có 2 cách để thêm từ điển:
 
 **Cách nhanh, nhưng có thể có bạn lúng túng**
 
-1. Cài [iTunes](https://www.apple.com/itunes/) nếu dùng Win hoặc Mac (có hệ điều hành dưới Catalina)
-
+1. Cài [iTunes](https://www.apple.com/itunes/) nếu dùng Win hoặc Mac (có hệ điều hành dưới Catalina; máy Catalina xem lưu ý)
 2. Cắm cáp nối iPhone với laptop
-
 3. Dùng tính năng `File Sharing` trong `iTunes` để copy thư mục `Golden Dictionary` đã download về máy tính vào trong máy tính.
 
-> Máy mac hệ điều hành `Catalina` thì chỉ cần vào `Finder` sẽ thấy điện thoại kết nối với `Finder` ngay ở bên phải như ổ cứng ngoài. Click vào và chọn `Files > MDict` rồi di thư mục `Golden Dictionary` vào đây. 
+> **Lưu ý**: Máy `mac` hệ điều hành `Catalina` thì chỉ cần vào `Finder` sẽ thấy điện thoại kết nối với `Finder` ngay ở bên phải như ổ cứng ngoài. Click vào và chọn `Files > MDict` rồi di thư mục `Golden Dictionary` vào đây. 
 
 #### Android: [Google Play](https://play.google.com/store/apps/details?id=cn.mdict)
 Cắm cáp nối điện thoại với máy tính, và copy thư mục `Golden Dictionary` vào trong `/mnt/sdcard/mdict/doc`
@@ -140,6 +138,10 @@ Link download: [Audacity](https://www.fosshub.com/Audacity.html)
 
 * Win: chọn `Audacity Windows Installer` để cài hoặc `Audacity Windows Zip` rồi giải nén ra và dùng luôn
 * Mac: chọn `Audacity macOS DMG`
+
+<p align="center">
+<img src="images/download_audacity.png" alt="Download Audacity" width="100%">
+</p>
 
 Hướng dẫn chi tiết sử dụng Audacity: [AUDACITY: hãy làm chủ hoàn toàn việc luyện nghe tiếng Anh của bản thân!](https://www.youtube.com/watch?v=RV4jUEaWCtc) (**Ai cũng nên xem hết nếu chưa xem!!!**)
 
@@ -157,6 +159,8 @@ Cần thiết để học online.
 * Win/Mac: nhấp download [Zoom Client for Meetings](https://zoom.us/download#client_4meeting)
 * iPhone: [App Store](https://itunes.apple.com/us/app/id546505307)
 * Android: [Google Play](https://play.google.com/store/apps/details?id=us.zoom.videomeetings)
+
+Sau khi cài xong, mở phần mềm và chọn `Sign up with Google` cho nhanh.
 
 ## Evernote
 
