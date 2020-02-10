@@ -33,10 +33,14 @@ Sau khi cả nhà cài Anki xong, cả nhà cài thêm add-ons cho Anki bằng c
 <p align="center">
 <img src="images/download_addons.png" alt="Download Addons" width="100%">
 </p>
+
 2. Chọn `Tools > Add-ons > View Files`
+
 3. Xoá toàn bộ thư mục `addons21`
+
 4. Copy thư mục `addons21` đã giải nén ở bước 1 vào thay. 
 > **Lưu ý:** cần copy thư mục `addons21` trong cùng, tránh tình trạng `addons21` bên trong `addons21` do giải nén.
+
 5. Tắt Anki đi bật lại
 
 Minh hoạ nhanh các bước làm:<br>
