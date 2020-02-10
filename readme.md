@@ -54,13 +54,12 @@ Sau khi cả nhà cài Anki xong, cả nhà cài thêm add-ons cho Anki bằng c
 5. Tắt Anki đi bật lại
 
 Minh hoạ nhanh các bước làm:<br>
+> **LƯU Ý:**<br>
+> Bạn nào tắt đi bật lại thấy báo lỗi, khả năng là **do thiếu `ffmpeg`**, cần cài thêm `ffmpeg` [theo hướng dẫn](https://github.com/hieuvijjo/huongdan_deck_to_audio).
 
 <p align="center">
 <img src="images/install_addons.gif" alt="Install Addons for Anki" width="100%">
 </p>
-
-> **Lưu ý:**<br>
-> Bạn nào tắt đi bật lại thấy báo lỗi, khả năng là do thiếu `ffmpeg`, cần cài thêm `ffmpeg` [theo hướng dẫn](https://github.com/hieuvijjo/huongdan_deck_to_audio).
 
 ## Google Drive 
 
