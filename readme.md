@@ -5,6 +5,7 @@ Những phần mềm cần thiết khi học tiếng Anh
 
 <!-- vim-markdown-toc GFM -->
 
+* [Zoom](#zoom): để học online và hỗ trợ từ xa
 * [Anki](#anki): phần mềm flashcards kèm add-ons
 * [Google Drive](#google-drive): phần mềm để lưu nhanh bài tập vào máy tính/điện thoại
 * [GoldenDict](#goldendict): phần mềm tra nhiều từ điển cùng lúc<br>
@@ -15,10 +16,19 @@ Những phần mềm cần thiết khi học tiếng Anh
 	* [Android: Google Play](#android-google-play)
 * [Audacity](#audacity): luyện nghe trên máy tính
 * [Phần mềm thay thế Audacity trên điện thoại](#phn-mm-thay-th-audacity-trên-in-thoi): luyện nghe trên điện thoại
-* [Zoom](#zoom): để học online
 * [Evernote](#evernote): để lưu lại ghi chép hàng tuần
 
 <!-- vim-markdown-toc -->
+
+## Zoom
+
+Cần thiết để học online và hỗ trợ từ xa.
+
+* Win/Mac: nhấp download [Zoom Client for Meetings](https://zoom.us/download#client_4meeting)
+* iPhone: [App Store](https://itunes.apple.com/us/app/id546505307)
+* Android: [Google Play](https://play.google.com/store/apps/details?id=us.zoom.videomeetings)
+
+Sau khi cài xong, mở phần mềm và chọn `Sign up with Google` cho nhanh.
 
 ## Anki
 
@@ -157,16 +167,6 @@ Cần thiết để luyện tập các track audio mà không cần dùng Audaci
 
 * iPhone: [Speater](https://apps.apple.com/us/app/speater-smart-repeater/id549627415) (mất phí, nhưng đáng đồng tiền, có cả bản free cho cả nhà thử, tìm trên AppStore)
 * Android: [WorkAudioBook](https://play.google.com/store/apps/details?id=com.povalyaev.WorkAudioBookPaid) (mất phí, nhưng đáng, có bản free để thử, cả nhà tìm trên Google Play Store)
-
-## Zoom
-
-Cần thiết để học online.
-
-* Win/Mac: nhấp download [Zoom Client for Meetings](https://zoom.us/download#client_4meeting)
-* iPhone: [App Store](https://itunes.apple.com/us/app/id546505307)
-* Android: [Google Play](https://play.google.com/store/apps/details?id=us.zoom.videomeetings)
-
-Sau khi cài xong, mở phần mềm và chọn `Sign up with Google` cho nhanh.
 
 ## Evernote
 
