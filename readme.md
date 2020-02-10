@@ -30,6 +30,9 @@ Những phần mềm cần thiết khi học tiếng Anh
 Sau khi cả nhà cài Anki xong, cả nhà cài thêm add-ons cho Anki bằng cách: 
 
 1. Download file zip và giải nén ra: [addons21.zip](https://github.com/hieuvijjo/essential_apps/blob/master/files/addons21.zip)
+<p align="center">
+<img src="images/download_addons.png" alt="Download Addons" width="100%">
+</p>
 2. Chọn `Tools > Add-ons > View Files`
 3. Xoá toàn bộ thư mục `addons21`
 4. Copy thư mục `addons21` đã giải nén ở bước 1 vào thay. 
@@ -138,7 +141,6 @@ Link download: [Audacity](https://www.fosshub.com/Audacity.html)
 
 * Win: chọn `Audacity Windows Installer` để cài hoặc `Audacity Windows Zip` rồi giải nén ra và dùng luôn
 * Mac: chọn `Audacity macOS DMG`
-
 <p align="center">
 <img src="images/download_audacity.png" alt="Download Audacity" width="100%">
 </p>
