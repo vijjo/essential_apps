@@ -56,6 +56,8 @@ Sau khi cả nhà cài Anki xong, cả nhà cài thêm add-ons cho Anki bằng c
 Minh hoạ nhanh các bước làm:<br>
 > **LƯU Ý:**<br>
 > Bạn nào tắt đi bật lại thấy báo lỗi, khả năng là **do thiếu `ffmpeg`**, cần cài thêm `ffmpeg` [theo hướng dẫn](https://github.com/hieuvijjo/huongdan_deck_to_audio).
+>
+> Cả nhà tốt nhất nên chọn `Tools > Add-ons > Check for Updates` để **update lại hết add-ons**. Tất nhiên, update xong thì cũng nên tắt đi bật lại.
 
 <p align="center">
 <img src="images/install_addons.gif" alt="Install Addons for Anki" width="100%">
