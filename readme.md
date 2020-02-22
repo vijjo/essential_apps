@@ -32,8 +32,8 @@ Sau khi cài xong, mở phần mềm và chọn `Sign up with Google` cho nhanh.
 
 ## Anki
 
-* [Bản cho Win](https://apps.ankiweb.net/downloads/current/anki-2.1.19-windows.exe?u=1)
-* [Bản cho Mac](https://apps.ankiweb.net/downloads/current/anki-2.1.19-mac.dmg)
+* [Bản cho Win](https://apps.ankiweb.net/downloads/archive/anki-2.1.15-windows.exe)
+* [Bản cho Mac](https://apps.ankiweb.net/downloads/archive/anki-2.1.15-mac.dmg)
 * [Điện thoại iPhone](https://itunes.apple.com/us/app/ankimobile-flashcards/id373493387) (mất phí)
 * [Điện thoại Android](https://play.google.com/store/apps/details?id=com.ichi2.anki) (free)
 
